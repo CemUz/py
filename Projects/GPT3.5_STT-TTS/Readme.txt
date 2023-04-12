@@ -1,1 +1,1 @@
-Trying to talk with GPT3
+Trying to talk with GPT3.5
